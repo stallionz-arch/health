@@ -1,0 +1,171 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/santam
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/src/index.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.css
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/src/serviceWorker.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/serviceWorker.js
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/src/logo.svg
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/logo.svg
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/src/App.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/App.js
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/src/App.test.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/App.test.js
+> git show :Documents/Projects/inquest/src/App.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/App.js
+> git show :Documents/Projects/inquest/src/App.test.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/App.test.js
+> git show :Documents/Projects/inquest/src/App.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/App.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git check-ignore -v -z --stdin
+> git show :Documents/Projects/inquest/public/index.htm
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.htm
+> git show :Documents/Projects/inquest/src/App.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/App.js
+> git show :Documents/Projects/inquest/public/index.htm
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.htm
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/src/App.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/App.css
+> git show :Documents/Projects/inquest/src/App.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/App.js
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/public/index.htm
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.htm
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git check-ignore -v -z --stdin
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/src/App.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/App.js
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/index.htm
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.htm
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/src/index.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/index.js
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/src/App.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/App.js
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/public/manifest.json
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/manifest.json
+> git show :Documents/Projects/inquest/public/robots.txt
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/robots.txt
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/README.md
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/README.md
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/santam/Documents/Projects/inquest/~/.vscode-root/GPUCache/data_0
+fatal: your current branch 'master' does not have any commits yet
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/santam/Documents/Projects/inquest/~/.vscode-root/GPUCache/data_0
+fatal: your current branch 'master' does not have any commits yet
+> git show :Documents/Projects/inquest/~/.vscode-root/GPUCache/data_0
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/~/.vscode-root/GPUCache/data_0
+> git show :Documents/Projects/inquest/README.md
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/README.md
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Documents/Projects/inquest/public/style.css
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/style.css
+> git show :Documents/Projects/inquest/public/index.html
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/public/index.html
+> git show :Documents/Projects/inquest/src/App.js
+> git ls-files --stage -- /home/santam/Documents/Projects/inquest/src/App.js

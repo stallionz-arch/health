@@ -1,0 +1,28 @@
+#home-sherlock{
+    height: 40;
+    width: 20;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.home{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.card{
+    background-color: rgb(99, 10, 10);
+    height: 10cm;
+    margin: 2cm;
+    border-radius: 2cm;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    top:3cm;
+}
+.btn{
+    margin:1cm;
+    background-color: rgb(71, 178, 240);
+}
+.card-text{
+    color: aliceblue;
+    margin-top: 1cm;
+    padding:0.5cm;
+}
