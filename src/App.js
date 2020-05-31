@@ -6,6 +6,7 @@ import NAV from './nav.js';
 import bmicalculator from './bmicalculator.js';
 import home from './home'
 import Footer from './footer.js'
+import faq from './faq'
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
 
@@ -20,6 +21,7 @@ function App() {
           
           <Route path='/signup' exact component={signup} /> 
           <Route path='/bmicalculator' exact component={bmicalculator} /> 
+          <Route path='/faq' exact component={faq}/>
         </Switch>    
       </div>
       <Footer/>
